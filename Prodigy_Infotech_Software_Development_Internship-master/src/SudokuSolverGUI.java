@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-//Kumudini Prodigy Infotech Project 1
+
 
 public class SudokuSolverGUI extends JFrame implements ActionListener {
 
